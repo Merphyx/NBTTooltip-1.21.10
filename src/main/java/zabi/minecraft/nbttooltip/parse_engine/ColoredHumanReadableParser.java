@@ -21,7 +21,7 @@ public class ColoredHumanReadableParser implements NbtTagParser {
 	private static final Formatting TAGNAME = Formatting.GOLD;
 
 	@Override
-	public void parseTagToList(List<Text> list, @Nullable NbtElement tag, boolean split) {
+	public void parseTagToList(List<Text> list, ItemStack stack, @Nullable NbtElement tag, boolean split) {
 		if (tag == null) {
 			list.add(Text.literal("No NBT tag").formatted(Formatting.DARK_GRAY));
 		} else {

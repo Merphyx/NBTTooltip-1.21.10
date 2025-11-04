@@ -121,7 +121,7 @@ public class NBTTooltip implements ClientModInitializer {
 	}
 
 	private static boolean isPressed(MinecraftClient mc, KeyBinding key) {
-		return !key.isUnbound() && InputUtil.isKeyPressed(mc.getWindow().getHandle(), InputUtil.fromTranslationKey(key.getBoundKeyTranslationKey()).getCode());
+		return !key.isUnbound() && InputUtil.isKeyPressed(mc.getWindow(), InputUtil.fromTranslationKey(key.getBoundKeyTranslationKey()).getCode());
 	}
 
 	public static ArrayList<Text> transformTtip(ArrayList<Text> ttip, int lines) {

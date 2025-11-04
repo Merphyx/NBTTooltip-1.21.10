@@ -12,6 +12,7 @@ import net.minecraft.nbt.NbtElement;
 import net.minecraft.nbt.NbtIntArray;
 import net.minecraft.nbt.NbtLongArray;
 import net.minecraft.nbt.NbtString;
+import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 
 public class NativeParser implements NbtTagParser {

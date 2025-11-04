@@ -4,7 +4,7 @@
 	"nbttooltip.copy_failed": "Copia fallita",
 	"key.nbttooltip.copy": "Copia NBT",
 	"key.nbttooltip.toggle": "(Dis)Attiva NBT",
-	"key.category.nbttooltip": "NBT Tooltip",
+	"key.category.nbttooltip.headline": "NBT Tooltip",
 	"key.nbttooltip.scroll_down": "Scorri giù NBT",
 	"key.nbttooltip.scroll_up": "Scorri su NBT",
 	

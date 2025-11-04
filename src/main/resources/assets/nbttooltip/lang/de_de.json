@@ -1,6 +1,6 @@
 {
   "nbttooltip.copied_to_clipboard": "Daten in die Zwischenablage kopiert",
-  "nbttooltip.object_details": "Objekt: %s",
+  "nbttooltip.object_details": "Item: %s",
   "nbttooltip.copy_failed": "Kopieren fehlgeschlagen",
   "key.nbttooltip.copy": "NBT kopieren",
   "key.nbttooltip.toggle": "NBT anzeigen/verbergen",
@@ -48,3 +48,4 @@
   "nbttooltip.config.copyingEngine.line1": "\"FRIENDLY\" nutzt ein leicht lesbares Format.",
   "nbttooltip.config.copyingEngine.line2": "\"JSON\" nutzt das standardisierte JSON-Format."
 }
+

@@ -17,7 +17,7 @@ public class BWHumanReadableParser implements NbtTagParser {
 	private static final int line_split_threshold = 30;
 
 	@Override
-	public void parseTagToList(List<Text> list, @Nullable NbtElement tag, boolean split) {
+	public void parseTagToList(List<Text> list, ItemStack item, @Nullable NbtElement tag, boolean split) {
 		if (tag == null) {
 			list.add(Text.literal("No NBT tag"));
 		} else {

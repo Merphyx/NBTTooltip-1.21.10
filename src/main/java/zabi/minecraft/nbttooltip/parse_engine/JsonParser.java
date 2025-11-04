@@ -9,6 +9,7 @@ import net.minecraft.nbt.AbstractNbtList;
 import net.minecraft.nbt.NbtCompound;
 import net.minecraft.nbt.NbtElement;
 import net.minecraft.nbt.NbtString;
+import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 import zabi.minecraft.nbttooltip.config.ModConfig;
 

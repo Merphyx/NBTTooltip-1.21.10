@@ -17,7 +17,7 @@ import net.minecraft.text.Text;
 public class NativeParser implements NbtTagParser {
 	
 	@Override
-	public void parseTagToList(List<Text> list, @Nullable NbtElement tag, boolean split) {
+	public void parseTagToList(List<Text> list, ItemStack stack, @Nullable NbtElement tag, boolean split) {
 		if (tag == null) {
 			list.add(Text.literal("{}"));
 		} else {

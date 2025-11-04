@@ -7,6 +7,7 @@ import org.jetbrains.annotations.Nullable;
 import net.minecraft.nbt.AbstractNbtList;
 import net.minecraft.nbt.NbtCompound;
 import net.minecraft.nbt.NbtElement;
+import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 import net.minecraft.util.Formatting;
 import zabi.minecraft.nbttooltip.config.ModConfig;

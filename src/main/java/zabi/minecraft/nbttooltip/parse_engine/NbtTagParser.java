@@ -1,6 +1,7 @@
 package zabi.minecraft.nbttooltip.parse_engine;
 
 import net.minecraft.nbt.NbtElement;
+import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 import org.jetbrains.annotations.Nullable;
 

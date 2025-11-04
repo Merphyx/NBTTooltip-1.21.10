@@ -1,0 +1,50 @@
+{
+  "nbttooltip.copied_to_clipboard": "Daten in die Zwischenablage kopiert",
+  "nbttooltip.object_details": "Objekt: %s",
+  "nbttooltip.copy_failed": "Kopieren fehlgeschlagen",
+  "key.nbttooltip.copy": "NBT kopieren",
+  "key.nbttooltip.toggle": "NBT anzeigen/verbergen",
+  "key.category.nbttooltip.headline": "NBT Tooltip",
+  "key.nbttooltip.scroll_down": "NBT nach unten scrollen",
+  "key.nbttooltip.scroll_up": "NBT nach oben scrollen",
+
+  "nbttooltip.config.showseparator": "Trennlinie anzeigen",
+  "nbttooltip.config.showseparator.line1": "Zeigt '- NBTTooltip -' vor dem NBT-Tag an.",
+  "nbttooltip.config.showseparator.line2": "Diese Zeile scrollt nicht mit dem Text.",
+
+  "nbttooltip.config.compress": "Text horizontal komprimieren",
+  "nbttooltip.config.compress.line1": "Der Text wird ohne Einrückung dargestellt",
+  "nbttooltip.config.compress.line2": "und linksbündig ausgerichtet.",
+
+  "nbttooltip.config.triggerType": "Auslöser-Typ",
+  "nbttooltip.config.triggerType.line1": "Bestimmt, wann der Tooltip angezeigt wird.",
+  "nbttooltip.config.triggerType.line2": "Die Taste dafür kann im Steuerungsmenü angepasst werden.",
+
+  "nbttooltip.config.showDelimiters": "Begrenzungen anzeigen",
+  "nbttooltip.config.showDelimiters.line1": "Zeigt '- NBT start -' und '- NBT end -' an",
+  "nbttooltip.config.showDelimiters.line2": "innerhalb des Tags, zusammen mit dem Text scrollend.",
+
+  "nbttooltip.config.ctrlSuppressesRest": "Nur NBT mit STRG",
+  "nbttooltip.config.ctrlSuppressesRest.line1": "Zeigt nur den NBT-Teil eines Tooltips an,",
+  "nbttooltip.config.ctrlSuppressesRest.line2": "wenn STRG gedrückt gehalten wird.",
+
+  "nbttooltip.config.splitLongLines": "Lange Zeilen aufteilen",
+  "nbttooltip.config.splitLongLines.line1": "Teilt lange Zeilen in mehrere Zeilen auf",
+  "nbttooltip.config.splitLongLines.line2": "und fügt am Anfang jeder Teilzeile ein Symbol hinzu.",
+
+  "nbttooltip.config.maxLinesShown": "Maximale NBT-Zeilen",
+  "nbttooltip.config.maxLinesShown.line1": "Die maximale Anzahl von Zeilen, die in einem",
+  "nbttooltip.config.maxLinesShown.line2": "Tooltip angezeigt werden, bevor er scrollt.",
+
+  "nbttooltip.config.ticksBeforeScroll": "Scroll-Verzögerung",
+  "nbttooltip.config.ticksBeforeScroll.line1": "Die Anzahl der Ticks, nach denen eine neue Zeile",
+  "nbttooltip.config.ticksBeforeScroll.line2": "angezeigt wird, wenn der Tooltip zu lang ist.",
+
+  "nbttooltip.config.tooltipEngine": "Tooltip-Darstellung",
+  "nbttooltip.config.tooltipEngine.line1": "\"FRIENDLY\" nutzt ein leicht lesbares Format",
+  "nbttooltip.config.tooltipEngine.line2": "\"JSON\" nutzt das standardisierte JSON-Format.",
+
+  "nbttooltip.config.copyingEngine": "Kopierformat",
+  "nbttooltip.config.copyingEngine.line1": "\"FRIENDLY\" nutzt ein leicht lesbares Format.",
+  "nbttooltip.config.copyingEngine.line2": "\"JSON\" nutzt das standardisierte JSON-Format."
+}

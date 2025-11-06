@@ -21,7 +21,7 @@
 	"nbttooltip.config.triggerType.line2": "key-based triggers is configurable through the controls menu.",
 	
 	"nbttooltip.config.showDelimiters": "Show delimiters",
-	"nbttooltip.config.showDelimiters.line1": "Shows '- component start -' and '- component end -' in the tooltip.",
+	"nbttooltip.config.showDelimiters.line1": "Shows '- component(s) start -' and '- component(s) end -' in the tooltip.",
 	
 	"nbttooltip.config.ctrlSuppressesRest": "Shows only component(s) (CTRL)",
 	"nbttooltip.config.ctrlSuppressesRest.line1": "Allows to show just the component part of a tooltip",

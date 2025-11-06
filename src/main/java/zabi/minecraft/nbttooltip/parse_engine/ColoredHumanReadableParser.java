@@ -24,7 +24,7 @@ public class ColoredHumanReadableParser implements NbtTagParser {
 	@Override
 	public void parseTagToList(List<Text> list, ItemStack stack, @Nullable NbtElement tag, boolean split) {
 		if (tag == null) {
-			list.add(Text.literal("No NBT tag").formatted(Formatting.DARK_GRAY));
+			list.add(Text.literal("No component(s) data").formatted(Formatting.DARK_GRAY));
 		} else {
 			unwrapTag(list, tag, "", "", ModConfig.INSTANCE.compress?"":"  ", split);
 		}

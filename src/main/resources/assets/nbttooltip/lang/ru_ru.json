@@ -22,7 +22,6 @@
 	
 	"nbttooltip.config.showDelimiters": "Отображать ограничители",
 	"nbttooltip.config.showDelimiters.line1": "Выводит '- NBT start -' и '- NBT end -' на границах тегов.",
-	"nbttooltip.config.showDelimiters.line2": "Надписи прокручиваются вместе с основными данными.",
 	
 	"nbttooltip.config.ctrlSuppressesRest": "Только nbt по Ctrl",
 	"nbttooltip.config.ctrlSuppressesRest.line1": "Позволяет отображать только nbt при нажатой Ctrl,",

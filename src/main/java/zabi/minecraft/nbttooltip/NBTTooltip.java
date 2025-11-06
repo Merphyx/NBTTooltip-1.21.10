@@ -162,7 +162,7 @@ public class NBTTooltip implements ClientModInitializer {
 			NbtCompound tag = encodeStack(stack, context.getRegistryLookup().getOps(NbtOps.INSTANCE));
 			if (!tag.isEmpty()) {
 				if (ModConfig.INSTANCE.showDelimiters) {
-					ttip.add(Text.literal(Formatting.DARK_PURPLE + " - component start -"));
+					ttip.add(Text.literal(Formatting.DARK_PURPLE + " - component(s) start -"));
 				}
 				if (ModConfig.INSTANCE.compress) {
 					ttip.add(Text.literal(FORMAT + tag));
@@ -170,12 +170,12 @@ public class NBTTooltip implements ClientModInitializer {
 					getRenderingEngine().parseTagToList(ttip, stack, tag, ModConfig.INSTANCE.splitLongLines);
 				}
 				if (ModConfig.INSTANCE.showDelimiters) {
-					ttip.add(Text.literal(Formatting.DARK_PURPLE + " - component end -"));
+					ttip.add(Text.literal(Formatting.DARK_PURPLE + " - component(s) end -"));
 				}
 				ttip = NBTTooltip.transformTtip(ttip, lines);
 				list.addAll(ttip);
 			} else {
-				list.add(Text.literal(FORMAT + "No component data"));
+				list.add(Text.literal(FORMAT + "No component(s) data"));
 			}
 		}
 	}

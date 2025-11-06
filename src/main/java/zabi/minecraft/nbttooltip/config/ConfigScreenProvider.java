@@ -25,8 +25,7 @@ public class ConfigScreenProvider implements ModMenuApi {
 				.startBooleanToggle(Text.translatable("nbttooltip.config.showseparator") , ModConfig.INSTANCE.showSeparator)
 					.setDefaultValue(true)
 					.setTooltip(
-							Text.translatable("nbttooltip.config.showseparator.line1"),
-							Text.translatable("nbttooltip.config.showseparator.line2") 
+							Text.translatable("nbttooltip.config.showseparator.line1") 
 					)
 					.setSaveConsumer(val -> ModConfig.INSTANCE.showSeparator = val)
 					.build()

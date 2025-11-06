@@ -22,7 +22,6 @@
 	
 	"nbttooltip.config.showDelimiters": "顯示分隔符",
 	"nbttooltip.config.showDelimiters.line1": "列印「- NBT start -」和「- NBT end -」。",
-	"nbttooltip.config.showDelimiters.line2": "在標籤內，隨其他部分一起捲動。",
 	
 	"nbttooltip.config.ctrlSuppressesRest": "按住 CTRL 僅顯示 NBT",
 	"nbttooltip.config.ctrlSuppressesRest.line1": "允許僅在",

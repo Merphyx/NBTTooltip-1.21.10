@@ -9,7 +9,7 @@
   "key.nbttooltip.scroll_up": "Component nach oben scrollen",
 
   "nbttooltip.config.showseparator": "Trennlinie anzeigen",
-  "nbttooltip.config.showseparator.line1": "Zeigt '- Component Tooltip -' vor den Components Daten an.",
+  "nbttooltip.config.showseparator.line1": "Zeigt '- Component Tooltip -' vor den Component(s) Daten an.",
   "nbttooltip.config.showseparator.line2": "Diese Zeile scrollt nicht mit dem Text.",
 
   "nbttooltip.config.compress": "Text horizontal komprimieren",
@@ -47,6 +47,7 @@
   "nbttooltip.config.copyingEngine.line1": "\"FRIENDLY\" nutzt ein leicht lesbares Format.",
   "nbttooltip.config.copyingEngine.line2": "\"JSON\" nutzt das standardisierte JSON-Format."
 }
+
 
 
 

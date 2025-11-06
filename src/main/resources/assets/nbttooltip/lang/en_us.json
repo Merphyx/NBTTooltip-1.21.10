@@ -31,7 +31,7 @@
 	"nbttooltip.config.splitLongLines.line1": "Divides long lines into multiple ones and",
 	"nbttooltip.config.splitLongLines.line2": "places a sign at the beginning of each part.",
 	
-	"nbttooltip.config.maxLinesShown": "Maximum Component lines",
+	"nbttooltip.config.maxLinesShown": "Maximum component lines",
 	"nbttooltip.config.maxLinesShown.line1": "The maximum amount of lines shown in a",
 	"nbttooltip.config.maxLinesShown.line2": "tooltip before it starts scrolling.",
 	

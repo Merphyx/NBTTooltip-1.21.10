@@ -2,14 +2,14 @@
 	"nbttooltip.copied_to_clipboard": "Data copied to clipboard",
 	"nbttooltip.object_details": "Item: %s",
 	"nbttooltip.copy_failed": "Copy failed",
-	"key.nbttooltip.copy": "Copy NBT",
-	"key.nbttooltip.toggle": "Toggle NBT",
+	"key.nbttooltip.copy": "Copy Component(s)",
+	"key.nbttooltip.toggle": "Toggle Component(s)",
 	"key.category.nbttooltip.headline": "NBT Tooltip",
-	"key.nbttooltip.scroll_down": "Scroll NBT down",
-	"key.nbttooltip.scroll_up": "Scroll NBT up",
+	"key.nbttooltip.scroll_down": "Scroll Component(s) down",
+	"key.nbttooltip.scroll_up": "Scroll Component(s) up",
 	
 	"nbttooltip.config.showseparator": "Show separator",
-	"nbttooltip.config.showseparator.line1": "Prints '- NBTTooltip -' before the NBT tag.",
+	"nbttooltip.config.showseparator.line1": "Prints '- Component Tooltip -' before the Component(s) data.",
 	"nbttooltip.config.showseparator.line2": "This tag doesn't scroll with the text.",
 	
 	"nbttooltip.config.compress": "Compress text horizontally",
@@ -21,18 +21,17 @@
 	"nbttooltip.config.triggerType.line2": "key-based triggers is configurable through the controls menu.",
 	
 	"nbttooltip.config.showDelimiters": "Show delimiters",
-	"nbttooltip.config.showDelimiters.line1": "Prints '- NBT start -' and '- NBT end -'.",
-	"nbttooltip.config.showDelimiters.line2": "inside the tag, scrolling with the rest.",
+	"nbttooltip.config.showDelimiters.line1": "Prints '- component start -' and '- component end -'.",
 	
-	"nbttooltip.config.ctrlSuppressesRest": "Just NBT with CTRL",
-	"nbttooltip.config.ctrlSuppressesRest.line1": "Allows to show just the NBT part of a tooltip",
+	"nbttooltip.config.ctrlSuppressesRest": "Only Component(s) with CTRL",
+	"nbttooltip.config.ctrlSuppressesRest.line1": "Allows to show just the component part of a tooltip",
 	"nbttooltip.config.ctrlSuppressesRest.line2": "when holding CTRL down, hiding the rest.",
 	
 	"nbttooltip.config.splitLongLines": "Split long lines",
 	"nbttooltip.config.splitLongLines.line1": "Divides long lines into multiple ones and",
 	"nbttooltip.config.splitLongLines.line2": "places a sign at the beginning of each part.",
 	
-	"nbttooltip.config.maxLinesShown": "Maximum NBT lines",
+	"nbttooltip.config.maxLinesShown": "Maximum Component lines",
 	"nbttooltip.config.maxLinesShown.line1": "The maximum amount of lines shown in a",
 	"nbttooltip.config.maxLinesShown.line2": "tooltip before it starts scrolling.",
 	

@@ -126,7 +126,7 @@ public class NBTTooltip implements ClientModInitializer {
 	public static ArrayList<Text> transformTtip(ArrayList<Text> ttip, int lines) {
 		ArrayList<Text> newttip = new ArrayList<>(lines);
 		if (ModConfig.INSTANCE.showSeparator) {
-			newttip.add(Text.literal("- NBTTooltip -"));
+			newttip.add(Text.literal("- Component Tooltip -"));
 		}
 		if (ttip.size() > lines) {
 			if (lines + line_scrolled > ttip.size()) {

@@ -46,5 +46,4 @@
 	"nbttooltip.config.copyingEngine": "Copy format",
 	"nbttooltip.config.copyingEngine.line1": "FRIENDLY uses a human-readable format to copy nbt.",
 	"nbttooltip.config.copyingEngine.line2": "JSON uses the standard JSON format for files."
-	
 }

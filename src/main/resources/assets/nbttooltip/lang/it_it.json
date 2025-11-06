@@ -22,8 +22,7 @@
 	
 	"nbttooltip.config.showDelimiters": "Mostra delimitatori",
 	"nbttooltip.config.showDelimiters.line1": "Stampa '- NBT start -' e '- NBT end -'.",
-	"nbttooltip.config.showDelimiters.line2": "dentro il tag, che scorrono con il testo.",
-	
+
 	"nbttooltip.config.ctrlSuppressesRest": "Isola NBT con CTRL",
 	"nbttooltip.config.ctrlSuppressesRest.line1": "Ti permette di nascondere il resto del tooltip",
 	"nbttooltip.config.ctrlSuppressesRest.line2": "quando si tiene premuto il tasto CTRL.",

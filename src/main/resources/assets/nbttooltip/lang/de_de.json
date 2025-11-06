@@ -22,7 +22,6 @@
 
   "nbttooltip.config.showDelimiters": "Begrenzungen anzeigen",
   "nbttooltip.config.showDelimiters.line1": "Zeigt '- component start -' und '- component end -' im Tooltip an.",
-  "nbttooltip.config.showDelimiters.line2": "innerh",
 
   "nbttooltip.config.ctrlSuppressesRest": "Nur Component mit STRG",
   "nbttooltip.config.ctrlSuppressesRest.line1": "Zeigt nur den Component-Teil eines Tooltips an,",
@@ -48,5 +47,6 @@
   "nbttooltip.config.copyingEngine.line1": "\"FRIENDLY\" nutzt ein leicht lesbares Format.",
   "nbttooltip.config.copyingEngine.line2": "\"JSON\" nutzt das standardisierte JSON-Format."
 }
+
 
 

@@ -22,7 +22,6 @@
 	
 	"nbttooltip.config.showDelimiters": "显示分隔线",
 	"nbttooltip.config.showDelimiters.line1": "显示 '- NBT start -' 和 '- NBT end -'.",
-	"nbttooltip.config.showDelimiters.line2": "标签内,与其他部分一起滚动.",
 	
 	"nbttooltip.config.ctrlSuppressesRest": "按住CTRL时只显示NBT",
 	"nbttooltip.config.ctrlSuppressesRest.line1": "允许只显示工具提示的NBT部分",
@@ -50,3 +49,4 @@
 	
 
 }
+
